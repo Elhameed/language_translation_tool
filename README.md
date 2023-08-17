@@ -1,6 +1,6 @@
 # Teniola's Language Translation Tool
 
-![Translation Tool](language_tool.png)
+<img src="https://github.com/Elhameed/language_translation_tool/blob/main/language_tool.png" width="60px" height="60px" />
 
 A small Python application that utilizes the Google Translate API to provide language translation functionality. This project is part of an assignment to demonstrate the use of external APIs for fetching and displaying relevant data in an easy-to-use format.
 
