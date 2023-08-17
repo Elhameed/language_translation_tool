@@ -1,5 +1,7 @@
 # Teniola's Language Translation Tool
 
+![Translation Tool](language_tool.png)
+
 A small Python application that utilizes the Google Translate API to provide language translation functionality. This project is part of an assignment to demonstrate the use of external APIs for fetching and displaying relevant data in an easy-to-use format.
 
 ## Overview
