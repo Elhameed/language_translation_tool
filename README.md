@@ -27,7 +27,7 @@ cd language_translation_tool
 python3 language_translation.py
 ```
 ## Demonstration
-For a quick overview of how to use the Language Translation Tool, please watch the following 2-minute demo video: [https://youtu.be/eEGeo_5UP70]
+For a quick overview of how to use the Language Translation Tool, please watch the following 2-minute demo video: https://youtu.be/eEGeo_5UP70
 
 ## Acknowledgement
 This project utilizes the Google Translate API from RapidAPI: [Google Translate API](https://rapidapi.com/opteka-opteka-default/api/google-translate105)
